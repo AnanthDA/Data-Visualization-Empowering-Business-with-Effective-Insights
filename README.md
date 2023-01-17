@@ -1,4 +1,4 @@
-![tata](https://user-images.githubusercontent.com/27211670/190601774-db1cbc4d-0daa-4853-a890-ebc6c15895ab.jpg)
+![tata](https://data1.ibtimes.co.in/cache-img-0-450/en/full/707619/1564065825_tata-logo.jpg)
 
 # Data-Visuaization-Empowering-Business-with-Effective-Insights
 ![tata](https://www.brighttalk.com/wp-content/uploads/2018/08/Hands-on-large-digital-dashboard-1024x683.jpeg)
