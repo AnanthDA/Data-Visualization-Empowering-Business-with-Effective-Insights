@@ -1,5 +1,3 @@
-![tata](https://data1.ibtimes.co.in/cache-img-0-450/en/full/707619/1564065825_tata-logo.jpg)
-
 # Data-Visuaization-Empowering-Business-with-Effective-Insights
 ![tata](https://www.brighttalk.com/wp-content/uploads/2018/08/Hands-on-large-digital-dashboard-1024x683.jpeg)
 This project has been provided by Tata Insights using Power BI we have to prepare dashborads to visualize, provide insights about the data and conclude about any improvements can be made in the future.
